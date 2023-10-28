@@ -1,4 +1,6 @@
 # Customer-Churn-Analysis
+# Context
+Analyzing behavior to retain customers.
 # Dataset
 The data set includes information about:
    1. Customers who left within the last month – the column is called Churn
